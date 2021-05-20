@@ -76,6 +76,7 @@
   --ion-color-light-tint: #f5f6f9;
 }
 
+
 @media (prefers-color-scheme: dark) {
   /*
    * Dark Colors
@@ -185,8 +186,8 @@
   }
 
   .ios ion-modal {
-    --ion-background-color: var(--ion-color-step-100);
-    --ion-toolbar-background: var(--ion-color-step-150);
+    --ion-background-color: var(--ion-color-step-400);
+    --ion-toolbar-background: var(--ion-color-step-350);
     --ion-toolbar-border-color: var(--ion-color-step-250);
   }
 

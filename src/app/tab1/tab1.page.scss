@@ -1,0 +1,14 @@
+ion-header {
+    --ion-background-color: #435d8c !important;
+    --ion-text-color: #ffffff !important;
+}
+.header .list, .item-content, .item-complex {
+    --ion-background-color: transparent !important;
+  }
+  ion-content {
+    --ion-background-color: #6079a7 !important;
+    --ion-text-color: #ffffff !important;
+}
+.content .list, .item-content, .item-complex {
+    --ion-background-color: transparent !important;
+  }
